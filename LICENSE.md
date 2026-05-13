@@ -1,4 +1,4 @@
-# 
+# smart ClickUp for Windows Integration | reminders + gantt-charts is the best ClickUp for Windows integration, featuring reminders and gantt-charts. Powerful, efficient, and
 
 
 
